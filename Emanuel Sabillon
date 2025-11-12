@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" class="styles" />
+    <title>Landing Page Assignment</title>
+    <header>Gourmet Homemade</header>
+    <h1>Welcome, fellow food lover!</h1>
+    <p1
+      >At Gourmet Homemade we provide home inspired dishes, elevated by years of
+      passion for cooking, while still being affordable.</p1
+    >
+  </head>
+  <body>
+    <div class="container">
+      <ul class="menu-items-container">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Me</a></li>
+        <li><a href="#">Projects</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <div class="button-section">
+        <button>Sign Up</button>
+        <button>Login</button>
+      </div>
+    </div>
+    <main>
+      <div class="card-container">
+        <div class="card"></div>
+        <img src="c:\Users\Admin\Downloads\grilled-chicken-margherita.jpg" />
+        <div class="card-content">
+          <h2>Grilled Chicken Margherita</h2>
+          <p>
+            Grilled chicken breast topped with pesto, mozzerella, cherry
+            tomatoes, basil and balsamic drizzle.
+          </p>
+        </div>
+        <div class="card"></div>
+        <img src="c:\Users\Admin\Downloads\candied-sweet-potatoes.jpg" />
+        <div class="card-content">
+          <h2>Candied Sweet Potatoes</h2>
+          <p>
+            Roasted sweet potatoes smothered in butter, brown sugar and cinnamin
+          </p>
+        </div>
+        <div class="card"></div>
+        <img src="c:\Users\Admin\Downloads\Cilantro-Lime-Rice-main.webp"/>
+        <div class="card-content">
+          <h2>Cilantro Lime Rice</h2>
+          <p>White jasmine rice saoked in fresh lime juice, lime zest and tossed in cilantro</p>
+      </div>
+    </main>
+  <footer class="footer"> 2025 
+
+  </footer>
+  </body>
+</html>
